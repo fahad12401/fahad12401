@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Fahad Ali Khan
 
-<!--
-**fahad12401/fahad12401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend & Full Stack Engineer (.NET | APIs | System Design)
 
-Here are some ideas to get you started:
+I specialize in building scalable enterprise systems including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚑 Ambulance Dispatch & Tracking Systems
+* 📊 Performance Appraisal Workflows
+* 🔐 Authentication & LDAP Integrations
+* 🤖 CV Parsing APIs using OpenCV
+
+---
+
+## 🧠 Core Skills
+
+* ASP.NET MVC / .NET Core
+* REST APIs & Microservices
+* SQL Server & System Design
+* Docker & Deployment
+* jQuery / AJAX-based dynamic UIs
+
+---
+
+## 🔥 Featured Projects
+
+### 🚑 Ambulance Dispatch System
+
+Real-time dispatch simulation with status tracking
+🔗 Repo: https://github.com/yourusername/ambulance-dispatch-system-dotnet
+
+### 📊 Performance Appraisal System
+
+Multi-stage evaluation workflow with role-based approvals
+🔗 Repo: https://github.com/yourusername/performance-appraisal-system-mvc
+
+### 🤖 CV Parser API
+
+Extract structured data from CVs using OpenCV
+🔗 Repo: https://github.com/yourusername/cv-parser-opencv-api
+
+### 🔐 LDAP Authentication API
+
+Enterprise-grade authentication using Active Directory
+🔗 Repo: https://github.com/yourusername/authentication-ldap-api
+
+---
+
+## ⚙️ DevOps & Deployment
+
+* Dockerized applications
+* Nginx reverse proxy
+* Environment-based configuration
+
+---
+
+## 📐 System Design
+
+I design scalable backend architectures with:
+
+* clean separation of concerns
+* optimized database design
+* workflow-driven systems
+
+---
+
+## 📫 Let's Connect
+
+* Fiverr / Upwork (optional)
+* LinkedIn (recommended)
